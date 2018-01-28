@@ -1,0 +1,4 @@
+#Sat Jan 27 20:20:05 EST 2018
+base.0=/Users/romellbolton/Desktop/Ex_Files_Android_SDK_Animation_Transition/Ch06/06_02/TransitionScenes/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex

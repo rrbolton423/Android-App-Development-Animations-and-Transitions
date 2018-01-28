@@ -1,0 +1,4 @@
+#Tue Jan 23 22:15:28 EST 2018
+base.0=/Users/romellbolton/Desktop/Ex_Files_Android_SDK_Animation_Transition/Ch04/04_02/ValueAnimator/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex

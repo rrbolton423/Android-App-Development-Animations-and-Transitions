@@ -1,0 +1,4 @@
+#Fri Jan 26 14:46:02 EST 2018
+base.0=/Users/romellbolton/Desktop/Ex_Files_Android_SDK_Animation_Transition/Ch05/05_02/CustomSlide/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
